@@ -1,4 +1,4 @@
-# BEST_vs_MENACE
+# BEST_vs_MENACE (C#)
 A tic-tac-toe machine learning project
 
 // For the moment there will be only notes
