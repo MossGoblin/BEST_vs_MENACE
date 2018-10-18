@@ -6,4 +6,4 @@ A tic-tac-toe machine learning project
 // MENACE will use an old idea I found on Numberphile(@youtube)
 
 // TODO : NEXT
-// list reuirements for each of the two system - native and cross
+// list requirements for each of the two system - native and cross
