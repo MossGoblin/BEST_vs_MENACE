@@ -8,3 +8,9 @@ Class Board - has a grid of Cells
  Hm... what about a Board and a Cell classes, used both by Beast and Menace
  AND static classes who use them trough the switchboard (Main) ??
  that would get rid of the boardID !!
+
+ !! On second thought... Do I need a Cell class at all? !!
+ * Let's try without the Cell class
+
+ REDOING BOARD
+ FIGURING HOW TO MARK THE BOARD STATE IN THE MENACE BOARD THE EASIEST - shall I calculate board name from the boardID (good memorywise)

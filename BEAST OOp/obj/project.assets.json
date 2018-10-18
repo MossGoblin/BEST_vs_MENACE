@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Codee\\[ GAMESTUFF ]\\BEAST_MENACE\\OOP Version\\BEAST OOp\\BEAST OOp\\BEAST OOp.csproj",
+      "projectUniqueName": "D:\\Codee\\[ GITHUBBED ]\\[ MyStuff ]\\BEST_vs_MENACE\\BEAST OOp\\BEAST OOp.csproj",
       "projectName": "BEAST OOp",
-      "projectPath": "D:\\Codee\\[ GAMESTUFF ]\\BEAST_MENACE\\OOP Version\\BEAST OOp\\BEAST OOp\\BEAST OOp.csproj",
+      "projectPath": "D:\\Codee\\[ GITHUBBED ]\\[ MyStuff ]\\BEST_vs_MENACE\\BEAST OOp\\BEAST OOp.csproj",
       "packagesPath": "C:\\Users\\Yolly\\.nuget\\packages\\",
-      "outputPath": "D:\\Codee\\[ GAMESTUFF ]\\BEAST_MENACE\\OOP Version\\BEAST OOp\\BEAST OOp\\obj\\",
+      "outputPath": "D:\\Codee\\[ GITHUBBED ]\\[ MyStuff ]\\BEST_vs_MENACE\\BEAST OOp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

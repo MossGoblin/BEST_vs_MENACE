@@ -6,7 +6,7 @@ namespace BEAST_OOp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+
         }
     }
 }
