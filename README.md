@@ -8,5 +8,6 @@ ___For the moment there will be only notes___
 __// ChangeLog__
 _1.0_
 * Switched the vessel (object transferring the moves between Beast and Menace) to int[] (boardID is a fancy idea that is too complicated for this case; will use it for something else)
+
 __// TODO : NEXT__
 * decide on a final GamePlan for Beast - revice the old one
