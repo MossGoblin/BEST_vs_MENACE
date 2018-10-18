@@ -1,0 +1,4 @@
+D:\Codee\[ GITHUBBED ]\[ MyStuff ]\BEST_vs_MENACE\BEAST OOp\obj\Debug\netcoreapp2.1\BEAST OOp.csprojAssemblyReference.cache
+D:\Codee\[ GITHUBBED ]\[ MyStuff ]\BEST_vs_MENACE\BEAST OOp\obj\Debug\netcoreapp2.1\BEAST OOp.csproj.CoreCompileInputs.cache
+D:\Codee\[ GITHUBBED ]\[ MyStuff ]\BEST_vs_MENACE\BEAST OOp\obj\Debug\netcoreapp2.1\BEAST OOp.AssemblyInfoInputs.cache
+D:\Codee\[ GITHUBBED ]\[ MyStuff ]\BEST_vs_MENACE\BEAST OOp\obj\Debug\netcoreapp2.1\BEAST OOp.AssemblyInfo.cs
