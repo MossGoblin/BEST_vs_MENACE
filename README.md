@@ -13,3 +13,5 @@ _1.0_
 
 __// TODO : NEXT__
 * decide on a final GamePlan for Beast - revice the old one
+* who starts first - shall ther ebe a preference?
+* Add a ScoreKeeper Class to facilitate the actual GameCycle
