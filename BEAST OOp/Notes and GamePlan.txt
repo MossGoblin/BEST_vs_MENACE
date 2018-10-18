@@ -1,0 +1,10 @@
+﻿Class Cell - only state
+Class Board - has a grid of Cells
+ -- can set and get Cell states
+ -- can calculate Line sums
+ -- can set produce board state identity
+
+
+ Hm... what about a Board and a Cell classes, used both by Beast and Menace
+ AND static classes who use them trough the switchboard (Main) ??
+ that would get rid of the boardID !!
