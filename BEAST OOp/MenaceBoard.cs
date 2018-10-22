@@ -11,12 +11,12 @@ namespace BEAST_OOp
         // Value - an array of probabilities
         private Dictionary<int, List<int>> boardPool; // dictionary of all accessed boardstates; the reset are considered Default
         private Queue<int> history; // history of selected positions
-        private int basePropValue; // base value, used to set up new cells in the pool; will be provided by the SwB, when the class instance is created 
+        private int baseProbValue; // base value, used to set up new cells in the pool; will be provided by the SwB, when the class instance is created 
 
-        public int BasePropValue
+        public int BaseProbValue
         {
-            get { return basePropValue; }
-            set { basePropValue = value; }
+            get { return baseProbValue; }
+            set { baseProbValue = value; }
         }
 
 
@@ -44,7 +44,7 @@ namespace BEAST_OOp
             // To save memory will most likely init each board state as it is called/updated
             BoardPool = new Dictionary<int, List<int>>();
             // TODO : Muy Importante - load saved BOARD POOL
-            BasePropValue = baseValue;
+            BaseProbValue = baseValue;
         }
 
         // Try to use a boardID
@@ -72,7 +72,7 @@ namespace BEAST_OOp
             {
                 for (int counter = 0; counter <= 9; counter++)
                 {
-                    pickList.Add(BasePropValue);
+                    pickList.Add(BaseProbValue);
                 }
                 Dictionary<int, List<int>> newPoolItem = new Dictionary<int, List<int>>();
                 newPoolItem.Add(boardID, pickList);
