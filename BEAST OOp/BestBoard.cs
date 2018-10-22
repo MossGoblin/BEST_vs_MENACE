@@ -77,7 +77,7 @@ namespace BEAST_OOp
             return boardID;
         }
 
-        // Set Board State using Board Identity -- check for valid number of changes is handled by SwB; check for valid states is handled by Cell
+        // Set Board State using Board Identity -- check for valid number of changes is handled by SwB
         public void SetBoardState(int[] boardID)
         {
             for (int counter = 0; counter <= 9; counter++)

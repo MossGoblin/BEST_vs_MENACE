@@ -14,3 +14,4 @@ Class Board - has a grid of Cells
 
  REDOING BOARD
  FIGURING HOW TO MARK THE BOARD STATE IN THE MENACE BOARD THE EASIEST - shall I calculate board name from the boardID (good memorywise)
+  * Seems like a good indea (because of the memory), but I'll need crypt/decrypt methods
