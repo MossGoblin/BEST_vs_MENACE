@@ -6,7 +6,8 @@ namespace BEAST_OOp
     {
         static void Main(string[] args)
         {
-
+            BeastBoard beast = new BeastBoard();
+            
         }
     }
 }
